@@ -1,4 +1,4 @@
 # OverMind
-site.pages
+{{site.pages}}
 
 ## The Project
