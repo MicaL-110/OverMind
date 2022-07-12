@@ -1,2 +1,2 @@
 # OverMind
-##Ai for Games Project
+## Ai for Games Project
