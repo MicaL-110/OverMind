@@ -1,3 +1,3 @@
 # OverMind
-[About]({% link about.md %})
+[About]({% link /OverMind/about.md %})
 ## The Project
